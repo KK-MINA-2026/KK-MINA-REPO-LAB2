@@ -1,0 +1,20 @@
+= DOKUMENTACJA ADOC
+Kamil Krawiec
+:reproducible:
+:description To jest README
+:url-repo: https://github.com/KK-MINA-2026/KK-MINA-REPO-LAB2
+To jest dokumentacja uzytkownika {KamilKr1355}
+
+== Opis projektu
+Ma pare plikow .ipynb i .py
+
+== Test adoc
+=== Lista
+* Kamil
+* Piotr
+* Krawiec
+
+==== Checklista
+
+* [*] zrobic .adoc
+* [ ] zdac przedmiot
